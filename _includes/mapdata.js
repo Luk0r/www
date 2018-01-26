@@ -196,5 +196,16 @@ var rseFeatures = [
             "type":"Point",
             "coordinates":[13.297083377838135,52.45773534720492]
         }
+    },
+        {
+        "type":"Feature",
+        "properties":{
+            "name":"Andreas Schmidt",
+            "popupContent":"<img src='https://avatars2.githubusercontent.com/u/1354647'>, Helmholtz-Zentrum für Umweltforschung GmbH - UFZ"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[12.432084381580351, 51.35331295900797]
+        }
     }
 ];
